@@ -1,6 +1,6 @@
 # SCAddPushMnueView
-###使用说明
-第一步  #import "SCAddPushMnueView.h"   
+##使用说明
+###第一步  #import "SCAddPushMnueView.h"   
 ###第二步
 <pre> SCCellModel *one = [[SCCellModel alloc] initWithTitle:@"添加好友" imageName:@"iconone"];/r
     SCCellModel *two = [[SSCellModel alloc] initWithTitle:@"发起群聊" imageName:@"icontwo"];/r
