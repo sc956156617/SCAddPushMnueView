@@ -1,10 +1,11 @@
 # SCAddPushMnueView
-##使用说明
+<br>##使用说明</br>    
+
 ###第一步  #import "SCAddPushMnueView.h"   
 ###第二步
-<pre> SCCellModel *one = [[SCCellModel alloc] initWithTitle:@"添加好友" imageName:@"iconone"];/r
-    SCCellModel *two = [[SSCellModel alloc] initWithTitle:@"发起群聊" imageName:@"icontwo"];/r
-    SCCellModel *three = [[SCCellModel alloc] initWithTitle:@"扫一扫" imageName:@"iconthere"];/r
+<pre> SCCellModel *one = [[SCCellModel alloc] initWithTitle:@"添加好友" imageName:@"iconone"];
+    SCCellModel *two = [[SSCellModel alloc] initWithTitle:@"发起群聊" imageName:@"icontwo"];
+    SCCellModel *three = [[SCCellModel alloc] initWithTitle:@"扫一扫" imageName:@"iconthere"];
     NSArrary * SCDataArr = [one,two,there];</pre>
 ###第三步
 <pre>
